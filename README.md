@@ -20,6 +20,10 @@ http://open.163.com/special/opencourse/machinelearning.html
 
 这个是机器学习算法的一些公开课视频，用到哪个看哪个
 
+https://www.coursera.org/learn/machine-learning/
+
+这个是同一个作者讲的，也比较系统
+
 #### 2.3深度学习技术
 
 #### 2.4现有深度学习开发框架Tensorflow的使用
